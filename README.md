@@ -54,7 +54,11 @@ Basic session-based or JWT authentication (depending on your implementation). Us
 
 ![Photo1](https://i.postimg.cc/nrm8T2JV/Screenshot-829.png)
 
+---
+
 ![Photo1](https://i.postimg.cc/VLjQCKgD/Screenshot-831.png)
+
+---
 
 ![Photo1](https://i.postimg.cc/5yb5kNcH/Screenshot-832.png)
 
