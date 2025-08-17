@@ -62,5 +62,12 @@ Basic session-based or JWT authentication (depending on your implementation). Us
 
 ![Photo1](https://i.postimg.cc/5yb5kNcH/Screenshot-832.png)
 
+---
+
+## 🎥 InstaGraffiti Demo
+
+[![Watch the demo](https://img.shields.io/badge/▶️%20Click%20to%20watch%20Social%20Media%20App%20Demo-blue?style=for-the-badge)](https://vimeo.com/1110665746?fl=pl&fe=sh)
+
+
 ## 📄 License
   This project is open source and available under the MIT License.
